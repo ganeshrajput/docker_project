@@ -205,12 +205,12 @@
 		<repository>
 			<id>docker_project_release</id>
 			<name>docker_project_release</name>
-			<url>http://54.248.176.150:8081/repository/docker_project_release/</url>
+			<url>http://18.181.171.196:8081/repository/docker_project_release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>docker_project_snapshot</id>
 			<name>docker_project_snapshot</name>
-			<url>http://54.248.176.150:8081/repository/docker_project_snapshot/</url>
+			<url>http://18.181.171.196:8081/repository/docker_project_snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
